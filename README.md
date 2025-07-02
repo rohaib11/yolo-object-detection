@@ -32,7 +32,10 @@ This project is an **Object Detection** web application built using **React** fo
 ---
 
 ## Installation
-
+1. Python version
+```bash
+Python 3.11.0
+```
 ### Clone the Repository
 
 ```bash
