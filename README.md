@@ -118,14 +118,20 @@ The app supports:
 
 Here are some screenshots of the app in action:
 
-1. **File Upload Page**  
-   ![File Upload](https://via.placeholder.com/800x400?text=File+Upload+Page)
+1. **Interface lIGHT**
+ ![image](https://github.com/user-attachments/assets/6e4d4b89-a20b-4dbd-9fb1-14507ab3b0ee)
 
-2. **Detection Results**  
-   ![Detection Results](https://via.placeholder.com/800x400?text=Detection+Results+Page)
+2. **Interface Dark**
+ ![image](https://github.com/user-attachments/assets/8b1b32f3-b593-4b6a-b9b3-6d31c14d0751)
 
-3. **Model Selection**  
-   ![Model Selection](https://via.placeholder.com/800x400?text=Model+Selection+Settings)
+3. **File Upload Page**  
+![image](https://github.com/user-attachments/assets/390634a0-3e4c-483b-9711-e43ab398f880)
+
+4. **Detection Results**  
+![image](https://github.com/user-attachments/assets/d3bd7583-4f3e-4be9-9e49-3a696bc63b89)
+
+5. **Complete**  
+![image](https://github.com/user-attachments/assets/8fe22ed4-d380-476d-b4b3-1e00586e6baa)
 
 Feel free to add your own screenshots here after taking them.
 
