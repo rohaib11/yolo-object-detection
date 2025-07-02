@@ -63,7 +63,10 @@ cd yolo-object-detection
    ```bash
    pip install -r requirements.txt
    ```
-
+   -  OR
+     ```bash
+    pip install flask tensorflow opencv-python
+    ```
 4. Download the **YOLOv3** model files and place them in the **`models/`** folder.
 
    You can download the model files from this [Google Drive link](https://drive.google.com/drive/folders/1PewJ41GYtWGZNXFSzHV8C6wRtT4UgLr3?usp=sharing). After downloading, place the following files in the `object-detection-backend/models/` directory:
