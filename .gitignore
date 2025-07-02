@@ -1,0 +1,16 @@
+# Node.js modules
+object-detection-frontend/node_modules/
+
+# Python virtual environment
+object-detection-backend/venv/
+
+
+# .env file for sensitive data
+
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
